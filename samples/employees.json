@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "first_name": "Alex",
+      "last_name": "Zentist",
+      "employee_id": "ZX-1001",
+      "job_title": "QA Engineer",
+      "employment_status": "Full-Time Permanent",
+      "salary_amount": "90000"
+    },
+    {
+      "first_name": "Mira",
+      "last_name": "Automation",
+      "employee_id": "ZX-1002",
+      "job_title": "Software Engineer",
+      "employment_status": "Full-Time Contract",
+      "salary_amount": "105000"
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Runner",
+      "employee_id": "ZX-1003",
+      "job_title": "QA Lead",
+      "employment_status": "Part-Time Contract",
+      "salary_amount": "76000"
+    }
+  ]
+}
