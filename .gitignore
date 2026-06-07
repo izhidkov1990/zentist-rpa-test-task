@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.playwright-mcp/
+*.egg-info/
+build/
+dist/
+var/
+README.ru.md
+DESIGN.ru.md
+REQUIREMENTS.ru.md
